@@ -30,12 +30,6 @@ Meu objetivo é ingressar como **Programador Júnior**, aplicando meus conhecime
 - Desenvolvimento de materiais didáticos e estímulo ao pensamento computacional.  
 - Introdução a variáveis, entrada/saída de dados, comandos condicionais e laços de repetição.  
 
-### Suporte Técnico Bilíngue | Grupo Algar – Uberlândia/MG  
-📅 Jun/2021 – Out/2021  
-- Resolução de falhas sistêmicas em português e inglês.  
-- Diagnóstico remoto de problemas em dispositivos e redes.  
-- Experiência em atendimento sob pressão, com foco em resultados.  
-
 ---
 
 ## 🎓 Formação Acadêmica  
