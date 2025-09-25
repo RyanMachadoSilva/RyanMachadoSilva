@@ -35,7 +35,7 @@ Meu objetivo é ingressar como **Programador Júnior**, aplicando meus conhecime
 ## 🎓 Formação Acadêmica  
 - **Bacharelado em Sistemas de Informação** – UFU  
   *(Jan/2024 – Jul/2027, em andamento)*  
-  - Ênfase em: Java, Python, C, PostgreSQL, Git/GitHub, VS Code, IntelliJ  
+  - Ênfase em: JavaScript, Python, C, PostgreSQL, Git/GitHub, VS Code, IntelliJ  
 
 - **Técnico em Computação Gráfica** – IFTM  
   *(2017 – 2019)*  
