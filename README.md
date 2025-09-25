@@ -1,7 +1,7 @@
 # 👨‍💻 Ryan Machado Silva  
 
 💻 **Desenvolvedor Full-Stack**  
-🚀 Java | Python | HTML | CSS | SQL | PostgreSQL | Git/GitHub  
+🚀 JavaScript | Python | HTML | CSS | SQL | PostgreSQL | Git/GitHub  
 📍 Uberlândia - MG | 📧 [ryan7machado@gmail.com](mailto:ryan7machado@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ryan-machado-a75a42246)  
 
@@ -15,7 +15,7 @@ Meu objetivo é ingressar como **Programador Júnior**, aplicando meus conhecime
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
-- **Linguagens:** Java, Python, C, HTML, CSS, SQL  
+- **Linguagens:** JavaScript, Python, C, HTML, CSS, SQL  
 - **Banco de Dados:** PostgreSQL  
 - **Ferramentas:** Git, GitHub, VS Code, IntelliJ, Excel/Sheets  
 - **Inglês:** Intermediário (leitura, escrita e conversação)  
