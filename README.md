@@ -52,6 +52,6 @@ Este é um projeto de e-commerce de peças automotivas esportivas, feito com HTM
 
 Você pode testar o projeto no GitHub Pages:
 
-[Ver projeto funcionando](https://ryanmachadosilva.github.io/Tuning-Stars/)  
+[Ver projeto funcionando](https://ryanmachadosilva.github.io/Tuning-Stars-/)  
 
 ---
