@@ -8,7 +8,7 @@
 ---
 
 # 📂 Projetos em Destaque  
-# Tuning Stars - Loja de Peças Esportivas
+Tuning Stars - Loja de Peças Esportivas
 
 Este é um projeto de e-commerce de peças automotivas esportivas, feito com HTML, CSS e JavaScript.
 
