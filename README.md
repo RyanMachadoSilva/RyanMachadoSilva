@@ -8,14 +8,14 @@
 ---
 
 # 📂 Projetos em Destaque  
-Tuning Stars - Loja de Peças Esportivas
+**Tuning Stars - Loja de Peças Esportivas
 
 Este é um projeto de e-commerce de peças automotivas esportivas, feito com HTML, CSS e JavaScript.
 
 🔗 Teste Online
 
-Você pode testar o projeto no GitHub Pages:
-
 [Preview Projeto](https://ryanmachadosilva.github.io/Tuning-Stars-/)  
+
+![Banner do Tuning Stars](assets/images/banner.jpg)
 
 ---
