@@ -44,6 +44,14 @@ Meu objetivo é ingressar como **Programador Júnior**, aplicando meus conhecime
 ---
 
 ## 📂 Projetos em Destaque  
-- 🚧 *Em breve: adicionarei meus principais projetos aqui!*  
+# Tuning Stars - Loja de Peças Esportivas
+
+Este é um projeto de e-commerce de peças automotivas esportivas, feito com HTML, CSS e JavaScript.
+
+## 🔗 Teste Online
+
+Você pode testar o projeto no GitHub Pages:
+
+[Ver projeto funcionando](https://ryanmachadosilva.github.io/Tuning-Stars/)  
 
 ---
